@@ -1,4 +1,4 @@
-# RootAngularProject
+# angular-element-base-project ( RootAngularProject )
 
 In this project we are using already created angular element (custom element) from repository `angular-element`. Clone both repositories to try in your local.
 
